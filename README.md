@@ -1,5 +1,6 @@
 # Aps_LogComp
 
+## EBNF
 
 ```ebnf
 program            ::= statement_list ";" ;
